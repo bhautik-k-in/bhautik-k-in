@@ -99,50 +99,19 @@ distributed cloud applications, and AI-powered automation solutions.
 
 # 💫 Who Am I?
 
-```ts
-const bhautik = {
-
-    role: "Senior Backend Engineer",
-
-    location: "India",
-
-    experience: "5+ Years",
-
-    specialization: [
-
-        "Backend Engineering",
-        "Workflow Automation",
-        "Browser Automation",
-        "Cloud Infrastructure",
-        "Distributed Systems",
-        "System Design"
-
-    ],
-
-    currentlyWorkingOn: [
-
-        "Large Scale Automation Platforms",
-        "Cloud Native Backend Systems",
-        "AI Powered Workflow Automation",
-        "Enterprise API Integrations"
-
-    ],
-
-    currentlyLearning: [
-
-        "AI Agents",
-        "MCP",
-        "Advanced System Design",
-        "Kubernetes",
-        "LLM Applications"
-
-    ],
-
-    lifePhilosophy:
-        "Build systems that eliminate manual work."
-
-}
-```
+| | |
+|:---|:---|
+| 👨‍💻 **Role** | Senior Backend Engineer |
+| 🏢 **Experience** | 5+ Years |
+| 📍 **Location** | India |
+| ⚡ **Specialization** | Backend Engineering, Workflow Automation, Distributed Systems |
+| ☁️ **Cloud** | AWS (ECS, EC2, SQS, CloudWatch, S3, SSM) |
+| 💻 **Languages** | TypeScript, JavaScript |
+| 🚀 **Backend** | Node.js, NestJS, Express.js, GraphQL |
+| 🗄️ **Databases** | MySQL, MongoDB, DynamoDB |
+| 🤖 **Automation** | Puppeteer, Browser Automation, AI Workflows |
+| 🌱 **Currently Learning** | AI Agents, MCP, Kubernetes, Advanced System Design |
+| 🎯 **Mission** | Build scalable systems that eliminate manual work. |
 
 ---
 
