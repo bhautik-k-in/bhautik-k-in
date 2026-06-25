@@ -96,148 +96,42 @@ distributed cloud applications, and AI-powered automation solutions.
 </p>
 
 ---
+# 🚀 About Me
 
-# 💫 Who Am I?
+Backend Engineer with 5+ years of experience building production-grade backend systems, workflow automation platforms, and cloud-native applications.
 
-| | |
-|:---|:---|
-| 👨‍💻 **Role** | Senior Backend Engineer |
-| 🏢 **Experience** | 5+ Years |
-| 📍 **Location** | India |
-| ⚡ **Specialization** | Backend Engineering, Workflow Automation, Distributed Systems |
-| ☁️ **Cloud** | AWS (ECS, EC2, SQS, CloudWatch, S3, SSM) |
-| 💻 **Languages** | TypeScript, JavaScript |
-| 🚀 **Backend** | Node.js, NestJS, Express.js, GraphQL |
-| 🗄️ **Databases** | MySQL, MongoDB, DynamoDB |
-| 🤖 **Automation** | Puppeteer, Browser Automation, AI Workflows |
-| 🌱 **Currently Learning** | AI Agents, MCP, Kubernetes, Advanced System Design |
-| 🎯 **Mission** | Build scalable systems that eliminate manual work. |
+I specialize in Node.js, TypeScript, AWS, distributed systems, browser automation, and scalable backend architecture. Currently exploring AI Agents, LLM applications, and intelligent workflow automation.
 
 ---
 
-# 🚀 What I Do
-
-✅ Design scalable backend architectures
-
-✅ Build production automation platforms
-
-✅ Develop enterprise REST & GraphQL APIs
-
-✅ Automate complex business workflows
-
-✅ Engineer distributed queue-based systems
-
-✅ Optimize high-volume backend processing
-
-✅ Build cloud-native AWS applications
-
-✅ Integrate AI into production software
-
----
+# ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bhautik-k-in&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/bhautik-k-in?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/bhautik-k-in?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,graphql,mysql,mongodb,docker,aws,git,linux,vscode,postman&perline=7" />
 </p>
 
 ---
 
-<!-- PART 2 STARTS BELOW -->
-````md
----
+# 💼 Core Expertise
 
-# 🛠️ Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,graphql,mysql,mongodb,dynamodb,docker,aws,git,github,linux,vscode,postman&perline=8"/>
-
-</p>
-
----
-
-# 🚀 Core Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Backend Engineering
-
-- REST API Development
-- GraphQL APIs
-- Node.js
-- NestJS
-- Express.js
-- TypeScript
-- Authentication
-- API Integrations
-- Database Design
-- Performance Optimization
-
-</td>
-
-<td width="50%" valign="top">
-
-### Cloud & Automation
-
-- AWS ECS
-- AWS EC2
-- AWS SQS
-- AWS CloudWatch
-- AWS S3
-- Docker
-- Browser Automation
-- Puppeteer
-- Queue Processing
-- Workflow Automation
-
-</td>
-</tr>
-</table>
+* Backend Engineering
+* Distributed Systems
+* Workflow Automation
+* Cloud Infrastructure
+* Browser Automation
+* REST & GraphQL APIs
+* System Design
+* Performance Optimization
+* AI Automation
 
 ---
 
-# 💼 Professional Highlights
+# 🌱 Currently Learning
 
-- 🚀 5+ years building backend systems and automation platforms.
-- ☁️ Experience designing cloud-native applications on AWS.
-- 🤖 Built production-grade browser automation and workflow automation systems.
-- ⚙️ Strong focus on scalable backend architecture and distributed processing.
-- 🔄 Experienced with enterprise API integrations and automation pipelines.
-- 📈 Passionate about performance optimization, reliability, and clean software architecture.
-
----
-
-# 🎯 Current Focus
-
-```text
-✓ Backend Architecture
-✓ Distributed Systems
-✓ Workflow Automation
-✓ AI Agents
-✓ Cloud Infrastructure
-✓ System Design
-✓ Production Engineering
-```
+* AI Agents
+* Model Context Protocol (MCP)
+* LangGraph
+* Kubernetes
+* Advanced System Design
 
 ---
-
-# 📚 Currently Learning
-
-```text
-• AI Agents
-• MCP (Model Context Protocol)
-• Kubernetes
-• LangGraph
-• LLM Applications
-• Advanced System Design
-```
-
----
-````
