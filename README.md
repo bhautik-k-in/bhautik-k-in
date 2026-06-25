@@ -1,76 +1,181 @@
+<!-- ========================================================= -->
+<!--                       HERO BANNER                          -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhautik-k-in/bhautik-k-in/main/assets/banners/hero-banner.png" alt="Bhautik Kevadiya Banner" width="100%">
+  <img src="./assets/banners/hero-banner.png" width="100%" alt="Hero Banner"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Bhautik Kevadiya</h1>
+<br>
 
-<h2 align="center">
-Senior Backend Engineer • Automation Engineer • AWS Cloud Engineer
-</h3>
+<!-- ========================================================= -->
+<!--                    ANIMATED TYPING                         -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&random=false&width=900&height=55&lines=Senior+Backend+Engineer;Automation+Platform+Engineer;AWS+Cloud+Engineer;Workflow+Automation+Specialist;Building+Production-Grade+Backend+Systems;Node.js+%7C+TypeScript+%7C+AWS+%7C+GraphQL" />
+
+</p>
+
+---
+
+<h1 align="center">
+
+Hi 👋 I'm Bhautik Kevadiya
+
+</h1>
 
 <h3 align="center">
-Building production-grade backend systems, workflow automation platforms, distributed cloud applications, and AI-powered automation solutions.
+
+Senior Backend Engineer • Automation Engineer • AWS Cloud Engineer
+
 </h3>
 
-## 🌐 Connect With Me
-<table align="center">
-<tr>
+<p align="center">
 
-<td align="center" width="95">
-<a href="https://www.linkedin.com/in/bhautik-kevadiya/" title="LinkedIn">
-<img src="./assets/social/linkedin.svg" width="48" alt="LinkedIn"/><br><br>
-<b>LinkedIn</b>
+Building production-grade backend systems, workflow automation platforms,
+distributed cloud applications, and AI-powered automation solutions.
+
+</p>
+
+<br>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bhautik-kevadiya/">
+<img src="./assets/social/linkedin.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="https://github.com/bhautik-k-in" title="GitHub">
-<img src="./assets/social/github.svg" width="48" alt="GitHub"/><br><br>
-<b>GitHub</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/bhautik-k-in">
+<img src="./assets/social/github.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="mailto:letsconnect.bk@gmail.com" title="Email">
-<img src="./assets/social/gmail.svg" width="48" alt="Email"/><br><br>
-<b>Email</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:letsconnect.bk@gmail.com">
+<img src="./assets/social/gmail.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="https://topmate.io/bhautikkevadiya" title="Portfolio">
-<img src="./assets/social/portfolio.svg" width="48" alt="Portfolio"/><br><br>
-<b>Portfolio</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://topmate.io/bhautikkevadiya">
+<img src="./assets/social/portfolio.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="https://drive.google.com/file/d/15Q-AlcP4D92DeBqbXm52m3iCUeDSaI1I/view?usp=sharing" title="Resume">
-<img src="./assets/social/resume.svg" width="48" alt="Resume"/><br><br>
-<b>Resume</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://drive.google.com/file/d/15Q-AlcP4D92DeBqbXm52m3iCUeDSaI1I/view">
+<img src="./assets/social/resume.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="https://www.youtube.com/@bhautikkevadiya" title="YouTube">
-<img src="./assets/social/youtube.svg" width="48" alt="YouTube"/><br><br>
-<b>YouTube</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@bhautikkevadiya">
+<img src="./assets/social/youtube.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="https://www.instagram.com/bybhautik/" title="Instagram">
-<img src="./assets/social/instagram.svg" width="48" alt="Instagram"/><br><br>
-<b>Instagram</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/bybhautik/">
+<img src="./assets/social/instagram.svg" width="52"/>
 </a>
-</td>
 
-<td align="center" width="95">
-<a href="https://linktr.ee/YOUR_LINKTREE" title="Linktree">
-<img src="./assets/social/linktree.svg" width="48" alt="Linktree"/><br><br>
-<b>Linktree</b>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linktr.ee/YOUR_USERNAME">
+<img src="./assets/social/linktree.svg" width="52"/>
 </a>
-</td>
 
-</tr>
-</table>
+</p>
+
+---
+
+# 💫 Who Am I?
+
+```ts
+const bhautik = {
+
+    role: "Senior Backend Engineer",
+
+    location: "India",
+
+    experience: "5+ Years",
+
+    specialization: [
+
+        "Backend Engineering",
+        "Workflow Automation",
+        "Browser Automation",
+        "Cloud Infrastructure",
+        "Distributed Systems",
+        "System Design"
+
+    ],
+
+    currentlyWorkingOn: [
+
+        "Large Scale Automation Platforms",
+        "Cloud Native Backend Systems",
+        "AI Powered Workflow Automation",
+        "Enterprise API Integrations"
+
+    ],
+
+    currentlyLearning: [
+
+        "AI Agents",
+        "MCP",
+        "Advanced System Design",
+        "Kubernetes",
+        "LLM Applications"
+
+    ],
+
+    lifePhilosophy:
+        "Build systems that eliminate manual work."
+
+}
+```
+
+---
+
+# 🚀 What I Do
+
+✅ Design scalable backend architectures
+
+✅ Build production automation platforms
+
+✅ Develop enterprise REST & GraphQL APIs
+
+✅ Automate complex business workflows
+
+✅ Engineer distributed queue-based systems
+
+✅ Optimize high-volume backend processing
+
+✅ Build cloud-native AWS applications
+
+✅ Integrate AI into production software
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bhautik-k-in&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/bhautik-k-in?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/bhautik-k-in?style=for-the-badge"/>
+
+</p>
+
+---
+
+<!-- PART 2 STARTS BELOW -->
