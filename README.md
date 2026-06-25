@@ -45,55 +45,69 @@ distributed cloud applications, and AI-powered automation solutions.
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/bhautik-kevadiya/">
-<img src="./assets/social/linkedin.svg" width="52"/>
+<img src="./assets/social/linkedin.svg" width="42" height="42" alt="LinkedIn"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="https://github.com/bhautik-k-in">
-<img src="./assets/social/github.svg" width="52"/>
+<img src="./assets/social/github.svg" width="42" height="42" alt="GitHub"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="mailto:letsconnect.bk@gmail.com">
-<img src="./assets/social/gmail.svg" width="52"/>
+<img src="./assets/social/gmail.svg" width="42" height="42" alt="Email"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="https://topmate.io/bhautikkevadiya">
-<img src="./assets/social/portfolio.svg" width="52"/>
+<img src="./assets/social/portfolio.svg" width="42" height="42" alt="Portfolio"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
-<a href="https://drive.google.com/file/d/15Q-AlcP4D92DeBqbXm52m3iCUeDSaI1I/view">
-<img src="./assets/social/resume.svg" width="52"/>
+<td align="center">
+<a href="https://drive.google.com/file/d/15Q-AlcP4D92DeBqbXm52m3iCUeDSaI1I/view?usp=sharing">
+<img src="./assets/social/resume.svg" width="42" height="42" alt="Resume"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="https://www.youtube.com/@bhautikkevadiya">
-<img src="./assets/social/youtube.svg" width="52"/>
+<img src="./assets/social/youtube.svg" width="42" height="42" alt="YouTube"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="https://www.instagram.com/bybhautik/">
-<img src="./assets/social/instagram.svg" width="52"/>
+<img src="./assets/social/instagram.svg" width="42" height="42" alt="Instagram"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+</tr>
+</table>
 
-<a href="https://linktr.ee/YOUR_USERNAME">
-<img src="./assets/social/linktree.svg" width="52"/>
-</a>
-
-</p>
+</div> 
 
 ---
 # 🚀 About Me
