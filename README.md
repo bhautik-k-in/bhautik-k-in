@@ -13,19 +13,66 @@ Building production-grade backend systems, workflow automation platforms, distri
 </h3>
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhautik-kevadiya/" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/linkedin.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bhautik-k-in" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/github.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:letsconnect.bk@gmail.com" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/gmail.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://topmate.io/bhautikkevadiya" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/portfolio.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/15Q-AlcP4D92DeBqbXm52m3iCUeDSaI1I/view?usp=sharing" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/resume.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@bhautikkevadiya" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/youtube.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/bybhautik/" target="_blank"
-   rel="noopener noreferrer"><img src="./assets/social/instagram.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/bhautik-kevadiya/">
+<img src="./assets/social/linkedin.svg" width="42" height="42" alt="LinkedIn"/>
+</a>
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<a href="https://github.com/bhautik-k-in">
+<img src="./assets/social/github.svg" width="42" height="42" alt="GitHub"/>
+</a>
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<a href="mailto:letsconnect.bk@gmail.com">
+<img src="./assets/social/gmail.svg" width="42" height="42" alt="Email"/>
+</a>
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<a href="https://topmate.io/bhautikkevadiya">
+<img src="./assets/social/portfolio.svg" width="42" height="42" alt="Portfolio"/>
+</a>
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/15Q-AlcP4D92DeBqbXm52m3iCUeDSaI1I/view?usp=sharing">
+<img src="./assets/social/resume.svg" width="42" height="42" alt="Resume"/>
+</a>
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<a href="https://www.youtube.com/@bhautikkevadiya">
+<img src="./assets/social/youtube.svg" width="42" height="42" alt="YouTube"/>
+</a>
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<a href="https://www.instagram.com/bybhautik/">
+<img src="./assets/social/instagram.svg" width="42" height="42" alt="Instagram"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
