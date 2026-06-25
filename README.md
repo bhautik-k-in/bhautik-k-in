@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Bhautik Kevadiya</h1>
 
 <h2 align="center">
-Senior Backend Engineer • Automation Platform Engineer • AWS Cloud Engineer
+Senior Backend Engineer • Automation Engineer • AWS Cloud Engineer
 </h3>
 
 <h3 align="center">
