@@ -148,3 +148,96 @@ distributed cloud applications, and AI-powered automation solutions.
 ---
 
 <!-- PART 2 STARTS BELOW -->
+````md
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,graphql,mysql,mongodb,dynamodb,docker,aws,git,github,linux,vscode,postman&perline=8"/>
+
+</p>
+
+---
+
+# 🚀 Core Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- REST API Development
+- GraphQL APIs
+- Node.js
+- NestJS
+- Express.js
+- TypeScript
+- Authentication
+- API Integrations
+- Database Design
+- Performance Optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+### Cloud & Automation
+
+- AWS ECS
+- AWS EC2
+- AWS SQS
+- AWS CloudWatch
+- AWS S3
+- Docker
+- Browser Automation
+- Puppeteer
+- Queue Processing
+- Workflow Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Professional Highlights
+
+- 🚀 5+ years building backend systems and automation platforms.
+- ☁️ Experience designing cloud-native applications on AWS.
+- 🤖 Built production-grade browser automation and workflow automation systems.
+- ⚙️ Strong focus on scalable backend architecture and distributed processing.
+- 🔄 Experienced with enterprise API integrations and automation pipelines.
+- 📈 Passionate about performance optimization, reliability, and clean software architecture.
+
+---
+
+# 🎯 Current Focus
+
+```text
+✓ Backend Architecture
+✓ Distributed Systems
+✓ Workflow Automation
+✓ AI Agents
+✓ Cloud Infrastructure
+✓ System Design
+✓ Production Engineering
+```
+
+---
+
+# 📚 Currently Learning
+
+```text
+• AI Agents
+• MCP (Model Context Protocol)
+• Kubernetes
+• LangGraph
+• LLM Applications
+• Advanced System Design
+```
+
+---
+````
