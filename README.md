@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi 👋 I'm Bhautik Kevadiya</h1>
 
-<h3 align="center">
+<h2 align="center">
 Senior Backend Engineer • Automation Platform Engineer • AWS Cloud Engineer
 </h3>
 
-<p align="center">
+<h3 align="center">
 Building production-grade backend systems, workflow automation platforms, distributed cloud applications, and AI-powered automation solutions.
-</p>
+</h3>
